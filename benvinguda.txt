@@ -1,2 +1,3 @@
-(B) Modificació 01 Main NomAlumne
-(C) Benvinguda a la branca 02 NomAlumne
+(B) Modificació 01 Main jit
+(C) Benvinguda a la branca 02 jit
+(F) Afegim imatge a branca02
